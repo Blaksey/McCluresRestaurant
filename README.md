@@ -1,4 +1,4 @@
-# Blaksey.github.io
+# McClure's Restaurant Website
 
 McClure's Restaurant Website - A static website for McClure's Restaurant featuring menu, locations, photos, and more.
 
@@ -21,6 +21,5 @@ Then open your browser to the URL shown (typically `http://localhost:3000`).
 
 ## Deployment
 
-This site is hosted on GitHub Pages and can be accessed at:
-- `https://blaksey.github.io/`
-- Custom domain (when configured)
+This site is hosted on Cloudflare Pages and can be accessed at:
+- `https://mccluresrestaurant.com`
