@@ -1,0 +1,870 @@
+{
+  "pageTitle": "Our Menu",
+  "pdfLinks": [
+    {
+      "label": "Gallipolis Printable Menu",
+      "href": "files/GallipolisPrintableMenu.pdf"
+    },
+    {
+      "label": "Pomeroy Printable Menu",
+      "href": "files/PomeroyPrintableMenu.pdf"
+    }
+  ],
+  "menuInfo": [
+    {
+      "title": "Sandwich Baskets",
+      "details": [
+        "Add $5.75 to the sandwich cost and we serve it with french fries, baked beans and slaw!"
+      ]
+    },
+    {
+      "title": "Choice of Toppings",
+      "details": [
+        "Deluxe has pickles, onions, lettuce, miracle whip & tomato (.15 extra)",
+        "$0.50 To add extra cheese to any sandwich."
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "hamburgers",
+      "navLabel": "Hamburgers",
+      "title": "Hamburgers",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Hamburger",
+              "price": "$2.95"
+            },
+            {
+              "name": "Double Hamburger",
+              "price": "$5.35"
+            },
+            {
+              "name": "Triple Hamburger",
+              "price": "$7.25"
+            },
+            {
+              "name": "Cheeseburger",
+              "price": "$3.45"
+            },
+            {
+              "name": "Double Cheeseburger",
+              "price": "$5.99"
+            },
+            {
+              "name": "Triple Cheeseburger",
+              "price": "$7.95"
+            },
+            {
+              "name": "Bacon Cheeseburger",
+              "price": "$4.45"
+            },
+            {
+              "name": "Double Bacon Cheeseburger",
+              "price": "$6.99"
+            },
+            {
+              "name": "Triple Bacon Cheeseburger",
+              "price": "$8.25"
+            },
+            {
+              "name": "Quarter Pounder Burger",
+              "price": "$4.99"
+            },
+            {
+              "name": "Double Quarter Pounder",
+              "price": "$7.99"
+            },
+            {
+              "name": "Triple Quarter Pounder",
+              "price": "$9.99"
+            },
+            {
+              "name": "Pizza Steak",
+              "price": "$4.99"
+            },
+            {
+              "name": "Double Pizza Steak",
+              "price": "$8.99"
+            },
+            {
+              "title": "Chiliburger",
+              "description": "Hamburger with Hot Dog Sauce",
+              "price": "$4.20"
+            },
+            {
+              "title": "Double Chiliburger",
+              "description": "Double Hamburger with Hot Dog Sauce",
+              "price": "$6.50"
+            },
+            {
+              "title": "Sonnyburger",
+              "description": "2 Hamburgers with Onion, Pickle, Slaw, Tomato, Special Cheese Sauce",
+              "price": "$6.49"
+            },
+            {
+              "title": "Billyburger",
+              "description": "Bacon Cheeseburger with a Fried Chicken Patty & Special Cheese Sauce",
+              "price": "$6.99"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hot-dogs",
+      "navLabel": "Hot Dogs",
+      "title": "Hot Dogs",
+      "content": [
+        {
+          "type": "note",
+          "text": "Homemade sauce recipe since 1957"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Regular",
+              "price": "$2.50"
+            },
+            {
+              "name": "Footlong Hotdog",
+              "price": "$4.50"
+            },
+            {
+              "name": "Corn Dog on a stick",
+              "price": "$2.99"
+            },
+            {
+              "name": "Regular Taco Hotdog",
+              "price": "$3.99"
+            },
+            {
+              "name": "Footlong Taco Hotdog",
+              "price": "$5.99"
+            }
+          ]
+        },
+        {
+          "type": "note",
+          "text": "Try our taco dog w/ sour cream!"
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "navLabel": "Sandwiches",
+      "title": "Sandwiches",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Steve Evans 1/4# Sausage",
+              "price": "$4.50"
+            },
+            {
+              "name": "Double Steve Evans 1/4# Sausage",
+              "price": "$6.99"
+            },
+            {
+              "name": "Hot Ham",
+              "price": "$3.50"
+            },
+            {
+              "name": "Ham & American Cheese",
+              "price": "$4.00"
+            },
+            {
+              "title": "Bologna",
+              "description": "Thick sliced and fried like at home",
+              "price": "$3.75"
+            },
+            {
+              "name": "Fishtail",
+              "price": "$6.99"
+            },
+            {
+              "name": "Shredded Pork BBQ",
+              "price": "$5.75"
+            },
+            {
+              "name": "Fried Chicken Patty",
+              "price": "$4.35"
+            },
+            {
+              "name": "Grilled Chicken",
+              "price": "$6.99"
+            },
+            {
+              "name": "Spicy Fried Chicken",
+              "price": "$6.49"
+            },
+            {
+              "title": "Philly Cheesesteak",
+              "description": "Comes w/ melted cheese",
+              "price": "$7.99"
+            },
+            {
+              "title": "BLT",
+              "description": "Try with cheese and miracle whip",
+              "price": "$5.25"
+            },
+            {
+              "name": "Grilled Cheese",
+              "price": "$2.99"
+            },
+            {
+              "name": "Peanut Butter Sandwich",
+              "price": "$1.99"
+            },
+            {
+              "title": "Hot Italian Sub",
+              "description": "Ham, Salami, Provolone Cheese, Lettuce, Tomato, Italian dressing",
+              "price": "$6.99"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "navLabel": "Sides",
+      "title": "Sides",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Sm. Fries",
+              "price": "$2.25"
+            },
+            {
+              "name": "Lg. Fries",
+              "price": "$3.60"
+            },
+            {
+              "name": "Sm. Fried Pepperjack Mac Bites",
+              "price": "$4.99"
+            },
+            {
+              "name": "Lg. Fried Pepperjack Mac Bites",
+              "price": "$9.00"
+            },
+            {
+              "name": "Sm. Pretzel Bites",
+              "badge": "Gallipolis Only",
+              "price": "$2.99"
+            },
+            {
+              "name": "Lg. Pretzel Bites",
+              "badge": "Gallipolis Only",
+              "price": "$4.99"
+            },
+            {
+              "name": "Sm. Corn Nuggets",
+              "price": "$3.99"
+            },
+            {
+              "name": "Lg. Corn Nuggets",
+              "price": "$7.29"
+            },
+            {
+              "name": "Sm. Spice Fries",
+              "price": "$2.99"
+            },
+            {
+              "name": "Lg. Spice Fries",
+              "price": "$3.99"
+            },
+            {
+              "name": "Sm. Onion Rings",
+              "price": "$3.39"
+            },
+            {
+              "name": "Lg. Onion Rings",
+              "price": "$5.99"
+            },
+            {
+              "name": "Sm. Wisconsin White Cheddar Cheese Curds",
+              "price": "$5.79"
+            },
+            {
+              "name": "Lg. Wisconsin White Cheddar Cheese Curds",
+              "price": "$10.49"
+            },
+            {
+              "name": "6 pc. Fried Cheese Ravioli w/ Marinara",
+              "badge": "Gallipolis Only",
+              "price": "$4.99"
+            },
+            {
+              "name": "12 pc. Fried Cheese Ravioli w/ Marinara",
+              "badge": "Gallipolis Only",
+              "price": "$7.99"
+            },
+            {
+              "name": "4 pc. Spicy Battered Pickle Spears",
+              "badge": "Gallipolis Only",
+              "price": "$4.99"
+            },
+            {
+              "name": "8 pc. Spicy Battered Pickle Spears",
+              "badge": "Gallipolis Only",
+              "price": "$8.99"
+            },
+            {
+              "name": "Sm. Fried Zucchini",
+              "price": "$3.39"
+            },
+            {
+              "name": "Lg. Fried Zucchini",
+              "price": "$5.99"
+            },
+            {
+              "name": "Sm. Fried Mushrooms",
+              "price": "$3.39"
+            },
+            {
+              "name": "Lg. Fried Mushrooms",
+              "price": "$5.99"
+            },
+            {
+              "name": "Side Coleslaw or Baked Beans",
+              "price": "$1.99"
+            },
+            {
+              "name": "Pint of Slaw or Baked Beans",
+              "price": "$5.75"
+            },
+            {
+              "name": "4 pc. Cheese Stick",
+              "price": "$5.50"
+            },
+            {
+              "name": "8 pc. Cheese Stick",
+              "price": "$9.50"
+            },
+            {
+              "name": "8pc. Chicken Nugget",
+              "price": "$3.99"
+            },
+            {
+              "name": "16pc. Chicken Nugget",
+              "price": "$7.45"
+            },
+            {
+              "name": "Shrimp Only",
+              "price": "$9.99"
+            },
+            {
+              "name": "Fish Only",
+              "price": "$5.99"
+            },
+            {
+              "name": "3 pc. Chicken Tender",
+              "price": "$7.35"
+            },
+            {
+              "name": "6 pc. Chicken Tender",
+              "price": "$12.99"
+            },
+            {
+              "name": "Fish & Chips",
+              "price": "$7.99"
+            },
+            {
+              "title": "Taco in a Bag (Sour Cream Extra)",
+              "description": "Taco meat, chips, cheese, lettuce, tomato, & taco sauce",
+              "price": "$6.50"
+            },
+            {
+              "name": "7 pc. Cinnamon Dunkers",
+              "badge": "Gallipolis Only",
+              "price": "$3.49"
+            },
+            {
+              "name": "14 pc. Cinnamon Dunkers",
+              "badge": "Gallipolis Only",
+              "price": "$5.99"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soups-salads",
+      "navLabel": "Soups & Salads",
+      "title": "Homemade Soups & Salads",
+      "content": [
+        {
+          "type": "note",
+          "text": "Vegetable, White Beans & Cornbread or Chili"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Pint",
+              "price": "$4.75"
+            },
+            {
+              "name": "Quart – Take Home",
+              "price": "$8.50"
+            },
+            {
+              "name": "Garden Salads",
+              "price": "$5.49"
+            },
+            {
+              "name": "Tuscan Chicken Garden Salad",
+              "price": "$8.99"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "entrees",
+      "navLabel": "Entrees",
+      "title": "Entree Baskets",
+      "content": [
+        {
+          "type": "note",
+          "text": "Served with crinkle fries, baked beans & slaw."
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "18-21-piece Shrimp",
+              "price": "$15.74"
+            },
+            {
+              "name": "3-piece Chicken Strips",
+              "price": "$13.10"
+            },
+            {
+              "name": "6-piece Chicken Strips",
+              "price": "$18.74"
+            },
+            {
+              "name": "Fish & Chicken Combo (2/2)",
+              "price": "$12.99"
+            },
+            {
+              "name": "3-piece Fish",
+              "price": "$11.74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kids",
+      "navLabel": "Kids Meals",
+      "title": "Kids Meals",
+      "content": [
+        {
+          "type": "badge",
+          "text": "Gallipolis Only"
+        },
+        {
+          "type": "note",
+          "text": "All Kids Meals include the Sandwich, Smiley Fries, Drink, and your choice of cookie or applesauce."
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "4 pc. Chicken Nugget",
+              "price": "$5.49"
+            },
+            {
+              "name": "Corn Dog",
+              "price": "$5.49"
+            },
+            {
+              "name": "Grilled Cheese",
+              "price": "$5.49"
+            },
+            {
+              "name": "Hamburger",
+              "price": "$5.49"
+            },
+            {
+              "name": "Hot Dog",
+              "price": "$5.49"
+            },
+            {
+              "name": "PB&J",
+              "price": "$5.49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "navLabel": "Desserts & Drinks",
+      "title": "Desserts & Drinks",
+      "content": [
+        {
+          "type": "subheading",
+          "text": "Ice Cream Delights"
+        },
+        {
+          "type": "featured-item",
+          "title": "Banana Split",
+          "price": "$5.99",
+          "description": "What's a banana split without nuts, whipped cream, and a cherry topping it off! We add them (no extra charge) to our delicious blend of chocolate and vanilla soft serve with strawberry, pineapple, chocolate syrup, and a whole banana. We don't monkey around with this popular recipe!"
+        },
+        {
+          "type": "featured-item",
+          "title": "Turtle Sundae",
+          "price": "$5.75",
+          "description": "Our version of a classic. Vanilla soft served layered with delicious hot fudge and caramel toppings, with walnuts, whipped cream and a red cherry!"
+        },
+        {
+          "type": "featured-item",
+          "title": "Hot Fudge Cake",
+          "price": "$5.75",
+          "description": "A chocolate delight with a chewy brownie cake as foundation for vanilla soft serve, another chewy brownie cake, thick hot fudge, smooth whipped cream, and a red cherry on top!"
+        },
+        {
+          "type": "featured-item",
+          "title": "Strawberry Shortcake",
+          "price": "$5.75",
+          "description": "Strawberries that have been fresh frozen in syrup transform our creamy vanilla soft serve and traditional shortcake into this ever popular all season big treat"
+        },
+        {
+          "type": "featured-item",
+          "title": "Ice-cream Nachos",
+          "price": "$5.99",
+          "description": "Waffle cone chips served with vanilla ice-cream, hot fudge, caramel, whipped cream, cinnamon & a cherry. (Gallipolis only)"
+        },
+        {
+          "type": "subheading",
+          "text": "Pies"
+        },
+        {
+          "type": "badge",
+          "text": "Gallipolis Only"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Coconut Cream",
+              "price": "$5.75"
+            },
+            {
+              "name": "Chocolate Meringue",
+              "price": "$5.75"
+            }
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Cones"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Kid",
+              "price": "$2.25"
+            },
+            {
+              "name": "Small",
+              "price": "$2.75"
+            },
+            {
+              "name": "Large",
+              "price": "$3.25"
+            }
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Milkshakes & Coolers"
+        },
+        {
+          "type": "note",
+          "text": "Over 30 different flavors! Add malt for $0.50 extra."
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Small",
+              "price": "$4.99"
+            },
+            {
+              "name": "Large",
+              "price": "$6.99"
+            }
+          ]
+        },
+        {
+          "type": "chip-group",
+          "items": [
+            "Banana",
+            "Blueberry",
+            "Butterscotch",
+            "Caramel",
+            "Cherry",
+            "Chocolate",
+            "Chocolate Banana",
+            "Chocolate Marshmallow",
+            "Chocolate Peanut Butter",
+            "Chocolate Strawberry",
+            "Coffee",
+            "Coffee Caramel",
+            "Creamsicle",
+            "Double Chocolate",
+            "Hot Fudge",
+            "Marshmallow",
+            "Mint",
+            "Mint Chocolate Chip",
+            "Orange Pineapple",
+            "Peach",
+            "Peanut Butter",
+            "Peanut Butter Marshmallow",
+            "Pineapple",
+            "Raspberry",
+            "Root Beer",
+            "Strawberry",
+            "Strawberry Banana",
+            "Vanilla"
+          ],
+          "label": "Flavors"
+        },
+        {
+          "type": "subheading",
+          "text": "Sundaes"
+        },
+        {
+          "type": "note",
+          "text": "Choose from a multitude of flavors!"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Small",
+              "price": "$3.50"
+            },
+            {
+              "name": "Large",
+              "price": "$4.00"
+            }
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Bulk Soft Serve"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Pints",
+              "price": "$4.00"
+            },
+            {
+              "name": "Quarts",
+              "price": "$6.00"
+            }
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Flurries"
+        },
+        {
+          "type": "badge",
+          "text": "Gallipolis Only"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Flurries (All Flavors)",
+              "price": "$5.99"
+            }
+          ]
+        },
+        {
+          "type": "chip-group",
+          "items": [
+            "Oreo",
+            "Butterfinger",
+            "M&M's",
+            "Reese Cup",
+            "Strawberry Cheesecake",
+            "Cheesecake",
+            "Cookie Dough"
+          ],
+          "label": "Flavors"
+        },
+        {
+          "type": "subheading",
+          "text": "Floats"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Pop & Slush Floats",
+              "price": "$3.75"
+            }
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Slushes"
+        },
+        {
+          "type": "badge",
+          "text": "Gallipolis Only"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Small",
+              "price": "$2.80"
+            },
+            {
+              "name": "Medium",
+              "price": "$2.95"
+            },
+            {
+              "name": "Large",
+              "price": "$3.10"
+            },
+            {
+              "name": "Jumbo",
+              "price": "$3.65"
+            }
+          ]
+        },
+        {
+          "type": "chip-group",
+          "items": [
+            "Lemonade",
+            "Strawberry Lemonade",
+            "Peach Lemonade",
+            "Cherry Lemonade",
+            "Watermelon Lemonade"
+          ],
+          "label": "Flavors"
+        },
+        {
+          "type": "subheading",
+          "text": "Pepsi Products, Tea, & Lemonade"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Small",
+              "price": "$2.60"
+            },
+            {
+              "name": "Medium",
+              "price": "$2.75"
+            },
+            {
+              "name": "Large",
+              "price": "$2.90"
+            },
+            {
+              "name": "Jumbo",
+              "price": "$3.45"
+            }
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Hot Drinks"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Coffee",
+              "price": "$1.50"
+            },
+            {
+              "name": "Hot Chocolate",
+              "price": "$1.50"
+            }
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Other"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Milk",
+              "price": "$1.50"
+            },
+            {
+              "name": "Bottled Water",
+              "price": "$1.25"
+            },
+            {
+              "name": "Bagged Ice",
+              "price": "$1.99"
+            }
+          ]
+        },
+        {
+          "type": "subheading",
+          "text": "Thrive Farmer's Cold Brew"
+        },
+        {
+          "type": "badge",
+          "text": "Gallipolis Only"
+        },
+        {
+          "type": "list",
+          "items": [
+            {
+              "name": "Cold Brew (All Flavors)",
+              "price": "$4.75"
+            }
+          ]
+        },
+        {
+          "type": "chip-group",
+          "items": [
+            "Vanilla",
+            "Sugar-free Vanilla",
+            "Caramel",
+            "Banana Brûlée",
+            "Samoa",
+            "Blondie",
+            "Brown Sugar Cinnamon",
+            "Pumpkin",
+            "\"The Miley Blu\" (Blueberry Muffin)"
+          ],
+          "label": "Flavors"
+        },
+        {
+          "type": "note",
+          "label": "Add-ons",
+          "text": "Caramel Drizzle, Chocolate Drizzle, Sweet Cream Cold Foam and Cinnamon Powder"
+        }
+      ]
+    }
+  ]
+}

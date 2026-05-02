@@ -343,6 +343,12 @@ body {
     margin-bottom: 1rem;
 }
 
+.menu-block-label {
+    margin-top: 15px;
+    font-weight: 600;
+    color: var(--text-dark);
+}
+
 .menu-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -493,6 +499,13 @@ body {
     font-size: 0.85rem;
     font-weight: 600;
     margin-bottom: 10px;
+}
+
+.menu-error {
+    background: var(--gray-light);
+    border-radius: var(--border-radius);
+    color: var(--text-dark);
+    padding: 20px;
 }
 
 .menu-items {
