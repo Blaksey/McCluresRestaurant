@@ -189,7 +189,7 @@
             },
             {
               "name": "Shredded Pork BBQ",
-              "price": "$5.75"
+              "price": "$5.99"
             },
             {
               "name": "Fried Chicken Patty",
@@ -206,7 +206,7 @@
             {
               "title": "BLT",
               "description": "Try with cheese and miracle whip",
-              "price": "$5.25"
+              "price": "$5.50"
             },
             {
               "name": "Grilled Cheese",
@@ -214,12 +214,12 @@
             },
             {
               "name": "Peanut Butter Sandwich",
-              "price": "$1.99"
+              "price": "$2.25"
             },
             {
               "title": "Hot Italian Sub",
               "description": "Ham, Salami, Provolone Cheese, Lettuce, Tomato, Italian dressing",
-              "price": "$6.99"
+              "price": "$7.50"
             }
           ]
         }
@@ -408,15 +408,15 @@
             },
             {
               "name": "Quart – Take Home",
-              "price": "$8.50"
+              "price": "$8.99"
             },
             {
               "name": "Garden Salads",
-              "price": "$5.49"
+              "price": "$6.99"
             },
             {
               "name": "Tuscan Chicken Garden Salad",
-              "price": "$8.99"
+              "price": "$10.99"
             }
           ]
         }
@@ -476,27 +476,27 @@
           "items": [
             {
               "name": "4 pc. Chicken Nugget",
-              "price": "$5.49"
+              "price": "$5.99"
             },
             {
               "name": "Corn Dog",
-              "price": "$5.49"
+              "price": "$5.99"
             },
             {
               "name": "Grilled Cheese",
-              "price": "$5.49"
+              "price": "$5.99"
             },
             {
               "name": "Hamburger",
-              "price": "$5.49"
+              "price": "$5.99"
             },
             {
               "name": "Hot Dog",
-              "price": "$5.49"
+              "price": "$5.99"
             },
             {
               "name": "PB&J",
-              "price": "$5.49"
+              "price": "$5.99"
             }
           ]
         }
@@ -514,27 +514,33 @@
         {
           "type": "featured-item",
           "title": "Banana Split",
-          "price": "$5.99",
+          "price": "$6.50",
           "description": "What's a banana split without nuts, whipped cream, and a cherry topping it off! We add them (no extra charge) to our delicious blend of chocolate and vanilla soft serve with strawberry, pineapple, chocolate syrup, and a whole banana. We don't monkey around with this popular recipe!"
         },
         {
           "type": "featured-item",
           "title": "Turtle Sundae",
-          "price": "$5.75",
+          "price": "$5.99",
           "description": "Our version of a classic. Vanilla soft served layered with delicious hot fudge and caramel toppings, with walnuts, whipped cream and a red cherry!"
         },
         {
           "type": "featured-item",
           "title": "Hot Fudge Cake",
-          "price": "$5.75",
+          "price": "$5.99",
           "description": "A chocolate delight with a chewy brownie cake as foundation for vanilla soft serve, another chewy brownie cake, thick hot fudge, smooth whipped cream, and a red cherry on top!"
         },
         {
           "type": "featured-item",
           "title": "Strawberry Shortcake",
-          "price": "$5.75",
-          "description": "Strawberries that have been fresh frozen in syrup transform our creamy vanilla soft serve and traditional shortcake into this ever popular all season big treat"
+          "price": "$5.99",
+          "description": "Strawberries that have been fresh frozen in syrup transform our creamy vanilla soft serve and traditional shortcake into this ever popular all season big treat."
         },
+        {
+          "type": "featured-item",
+          "title": "Pineapple Flip Sundae",
+          "price": "$5.99",
+          "description": "Vanilla ice-cream between two pieces of pound cake, with our homemade brown sugar syrup, crushed pineapple, maraschino cheries, and whipped cream."
+
         {
           "type": "featured-item",
           "title": "Ice-cream Nachos",
@@ -571,15 +577,15 @@
           "items": [
             {
               "name": "Kid",
-              "price": "$2.25"
-            },
-            {
-              "name": "Small",
               "price": "$2.75"
             },
             {
+              "name": "Small",
+              "price": "$3.00"
+            },
+            {
               "name": "Large",
-              "price": "$3.25"
+              "price": "$3.50"
             }
           ]
         },
@@ -630,6 +636,7 @@
             "Peanut Butter",
             "Peanut Butter Marshmallow",
             "Pineapple",
+            "Pumpkin",
             "Raspberry",
             "Root Beer",
             "Strawberry",
@@ -651,11 +658,11 @@
           "items": [
             {
               "name": "Small",
-              "price": "$3.50"
+              "price": "$3.99"
             },
             {
               "name": "Large",
-              "price": "$4.00"
+              "price": "$4.99"
             }
           ]
         },
@@ -702,7 +709,8 @@
             "Reese Cup",
             "Strawberry Cheesecake",
             "Cheesecake",
-            "Cookie Dough"
+            "Cookie Dough",
+            "Pumpkin Cheesecake"
           ],
           "label": "Flavors"
         },
@@ -714,8 +722,13 @@
           "type": "list",
           "items": [
             {
-              "name": "Pop & Slush Floats",
-              "price": "$3.75"
+              "name": "Slush Floats",
+              "badge": "Gallipolis Only",
+              "price": "$4.25"
+            },
+            {
+              "name": "Pop Float",
+              "price": "$3.99"
             }
           ]
         },
@@ -732,19 +745,19 @@
           "items": [
             {
               "name": "Small",
-              "price": "$2.80"
+              "price": "$2.90"
             },
             {
               "name": "Medium",
-              "price": "$2.95"
+              "price": "$3.05"
             },
             {
               "name": "Large",
-              "price": "$3.10"
+              "price": "$3.25"
             },
             {
               "name": "Jumbo",
-              "price": "$3.65"
+              "price": "$3.75"
             }
           ]
         },
@@ -768,19 +781,19 @@
           "items": [
             {
               "name": "Small",
-              "price": "$2.60"
-            },
-            {
-              "name": "Medium",
               "price": "$2.75"
             },
             {
-              "name": "Large",
+              "name": "Medium",
               "price": "$2.90"
             },
             {
+              "name": "Large",
+              "price": "$3.10"
+            },
+            {
               "name": "Jumbo",
-              "price": "$3.45"
+              "price": "$3.60"
             }
           ]
         },
@@ -834,8 +847,12 @@
           "type": "list",
           "items": [
             {
-              "name": "Cold Brew (All Flavors)",
-              "price": "$4.75"
+              "name": "Regular",
+              "price": "$4.99"
+            },
+            {
+              "name": "Large",
+              "price": "$7.99"
             }
           ]
         },
@@ -843,21 +860,22 @@
           "type": "chip-group",
           "items": [
             "Vanilla",
-            "Sugar-free Vanilla",
             "Caramel",
             "Banana Brûlée",
             "Samoa",
             "Blondie",
             "Brown Sugar Cinnamon",
             "Pumpkin",
-            "\"The Miley Blu\" (Blueberry Muffin)"
+            "Mocha",
+            "Peppermint Mocha",
+            "Honey"
           ],
           "label": "Flavors"
         },
         {
           "type": "note",
           "label": "Add-ons",
-          "text": "Caramel Drizzle, Chocolate Drizzle, Sweet Cream Cold Foam and Cinnamon Powder"
+          "text": "Caramel Drizzle, Chocolate Drizzle, Sweet Cream Cold Foam, Cinnamon Powder, and Crushed Peppermint"
         }
       ]
     }
