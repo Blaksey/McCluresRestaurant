@@ -722,55 +722,10 @@
           "type": "list",
           "items": [
             {
-              "name": "Slush Floats",
-              "badge": "Gallipolis Only",
-              "price": "$4.25"
-            },
-            {
               "name": "Pop Float",
               "price": "$3.99"
             }
           ]
-        },
-        {
-          "type": "subheading",
-          "text": "Slushes"
-        },
-        {
-          "type": "badge",
-          "text": "Gallipolis Only"
-        },
-        {
-          "type": "list",
-          "items": [
-            {
-              "name": "Small",
-              "price": "$2.90"
-            },
-            {
-              "name": "Medium",
-              "price": "$3.05"
-            },
-            {
-              "name": "Large",
-              "price": "$3.25"
-            },
-            {
-              "name": "Jumbo",
-              "price": "$3.75"
-            }
-          ]
-        },
-        {
-          "type": "chip-group",
-          "items": [
-            "Lemonade",
-            "Strawberry Lemonade",
-            "Peach Lemonade",
-            "Cherry Lemonade",
-            "Watermelon Lemonade"
-          ],
-          "label": "Flavors"
         },
         {
           "type": "subheading",
@@ -831,6 +786,7 @@
             },
             {
               "name": "Bagged Ice",
+              "badge": "Pomeroy Only",
               "price": "$1.99"
             }
           ]
