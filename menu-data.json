@@ -292,26 +292,6 @@
               "price": "$10.49"
             },
             {
-              "name": "6 pc. Fried Cheese Ravioli w/ Marinara",
-              "badge": "Gallipolis Only",
-              "price": "$4.99"
-            },
-            {
-              "name": "12 pc. Fried Cheese Ravioli w/ Marinara",
-              "badge": "Gallipolis Only",
-              "price": "$7.99"
-            },
-            {
-              "name": "4 pc. Spicy Battered Pickle Spears",
-              "badge": "Gallipolis Only",
-              "price": "$4.99"
-            },
-            {
-              "name": "8 pc. Spicy Battered Pickle Spears",
-              "badge": "Gallipolis Only",
-              "price": "$8.99"
-            },
-            {
               "name": "Sm. Fried Zucchini",
               "price": "$3.39"
             },
@@ -563,7 +543,7 @@
               "price": "$5.75"
             },
             {
-              "name": "Chocolate Meringue",
+              "name": "Pecan",
               "price": "$5.75"
             }
           ]
